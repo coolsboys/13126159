@@ -1,2 +1,22 @@
 How to handle loops in CFT:
 First testing the inner CFG or loop in isolation, and then treating it as a node when testing the outer loop.
+
+basic concepts:
+
+Two kinds of basic program statements:
+---Assignment statements(Ex.x=2*y;)
+---Conditional statements(Ex.if(),for(),while(),...)
+
+Control flow
+---Successive execution of program statements is viewed as flow of control.
+---Conditional statements alter the default flow
+
+Program path
+---A program path is sequence of statements from entry to exit
+---There can be a large number of paths in a program
+---There os an(input,expected output)pair for each path
+---Executing a path requires invoking the program unit with the right test input
+---Pths are chosen by using the concepts of path selection criteria
+
+Tools:Automatically generate test inputs from program paths.
+
