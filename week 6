@@ -1,0 +1,38 @@
+Testing vs. Preventive actions
+
+    Different applicability to maintenance
+    
+    Objects QA activities applied on different things: executable code vs dev. activities
+
+    Different development phases: testing phase and later vs defect prevention on (req/spec/design/coding)
+
+    General expertise levels: low vs high
+
+    Problem or defect types:dynamic failures & related faults VS. negating causes or pre-conditions to pervasive problems
+
+
+Testing vs. Formal verification
+
+    Tesing is important link in development process
+   
+    Defect situations: Medium/low vs Low/no
+
+    Cost: moderate vs hight
+
+    Different development phases
+    
+Testing vs. Inspection
+    
+    Existence of the implemented product
+    
+    Levels of quality/defects
+    
+    Static vs. dynamic defects
+
+    Localized vs. interconnected defects
+
+    Combined approaches
+    
+    Phases and transitions
+    
+    Inspection of testing entities/processes
