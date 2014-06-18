@@ -1,5 +1,22 @@
 ##How to ensure the quality of a software system
 
+
+####Test early and often
+Delib have a strong belief that where possible quality should be built in throughout the development life cycle rather than tested in at the end of a project. This is an important part of the agile development process which we use when making our apps. We test what we do, whether it’s design, code, or documentation, early and often so that defects are found while the work is still fresh in people’s minds and before the defects can become too deeply embedded in the software.
+
+####Minimise variation
+Any customisation of the software introduces variation which needs to be tested and maintained for every version of the app. Lean manufacturing has taught us that by minimising variation and developing apps which work for people out of the box we can reduce costs and more thoroughly test what we make, increasing the value of what we do for our clients. We recommend to our clients that they avoid paying us to customise our apps when possible so that we can provide them with the most cost efficient solution.
+
+####Build in flexibility
+Where there is a common need for the same customisation from lots of clients we try to allow for this by building flexibility into the system. This limited and known variation can be accounted for when testing and does not add a huge cost overhead to our development process, while at the same time allowing our clients to change the things they need to.
+
+####Use great tools
+Tools like Selenium and Jenkins enable us to run automated tests on our apps to ensure that any changes we make don’t break the existing features which our clients rely on. We continually make use of these tools throughout our development cycle.
+
+####Try out new ideas
+We are always eager to learn about anything which might help us increase the quality and value of what we produce. Moving from the specification driven waterfall development model to the more flexible agile methodology was a big change for us, but adopting lean production methods is the thing that has given us the largest benefits.
+
+
 The most intuition way of SQA is software testing. The purpose of software testing is to detect errors in the software. The tester should ideally detect all errors before the software is released to the customer. However, full test coverage of a program is impossible. Software testing is a trade-off between budget, time and quality. Here are six functional tests to ensure software quality.
 
 ####Unit Testing
