@@ -1,19 +1,11 @@
 Six types of functional testing can be used to ensure the quality of the end product. Understand these testing types and scale the execution to match the risk to the project.
 
- 
-
 Ensure every line of code executes properly with Unit Testing.
 Unit testing is the process of testing each unit of code in a single component. This form of testing is carried out by the developer as the component is being developed. The developer is responsible for ensuring that each detail of the implementation is logically correct. Unit tests are normally discussed in terms of the type of coverage they provide:
 
- 
-
 Function coverage: Each function/method executed by at least one test case.
 
- 
-
 Statement coverage: Each line of code covered by at least one test case (need more test cases than above).
-
- 
 
 Path coverage: Every possible path through code covered by at least one test case (need plenty of test cases).
 Unit tests allow developers to continually ensure that a unit of code does what is intended even as associated units change. As the software evolves, unit tests are modified, serving as an up-to-date form of documentation.
