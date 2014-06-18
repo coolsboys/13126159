@@ -1,5 +1,6 @@
 Six types of functional testing can be used to ensure the quality of the end product. Understand these testing types and scale the execution to match the risk to the project.
 
+
 Ensure every line of code executes properly with Unit Testing.
 Unit testing is the process of testing each unit of code in a single component. This form of testing is carried out by the developer as the component is being developed. The developer is responsible for ensuring that each detail of the implementation is logically correct. Unit tests are normally discussed in terms of the type of coverage they provide:
 
