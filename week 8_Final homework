@@ -22,7 +22,6 @@ For detailed information on how to correctly develop use cases to support functi
 Ensure all functions combine to deliver the desired business result with System Testing. 
 System testing executes end-to-end functional tests that cross software units, helping to realize the goal of ensuring that components combine to deliver the desired business result. In defining the project's system testing goals, focus on those scenarios that require critical units to integrate.
 
-
 Also, consider whether all subsystems should be tested first or if all layers of a single subsystem should be tested before being combined with another subsystem.
 
 Combining the various components together in one swift move should be avoided. The issue with this approach is the difficulty in localizing error. Components should be integrated incrementally after each has been tested in isolation.
