@@ -1,0 +1,2 @@
+How to handle loops in CFT:
+First testing the inner CFG or loop in isolation, and then treating it as a node when testing the outer loop.
