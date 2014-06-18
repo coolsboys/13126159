@@ -4,7 +4,7 @@ Wu Jia 13126148 Group E
 
 The most intuition way of SQA is software testing. The purpose of software testing is to detect errors in the software. The tester should ideally detect all errors before the software is released to the customer. However, full test coverage of a program is impossible. Software testing is a trade-off between budget, time and quality. Here are six functional tests to ensure software quality.
 
-Unit Testing
+@Unit Testing
 
 Unit testing is the process of testing each unit of code in a single component. This form of testing is carried out by the developer as the component is being developed. The developer is responsible for ensuring that each detail of the implementation is logically correct.
 
